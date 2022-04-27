@@ -14,7 +14,6 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/Misaka-blog/XrayR-script/master/install.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/c-pass-develope/XrayR-script/master/install.sh)
-
 ```
 # Docker 安装
 
